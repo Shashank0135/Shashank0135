@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank20131a4201&label=Profile%20views&color=0e75b6&style=flat" alt="shashank20131a4201" /> </p>
 
-- 🔭 I’m currently working on **Real Time Parking Management**
+- 🔭 I’m currently working on **Multimodal Emotion Classification**
 
-- 🌱 I’m currently learning **Computer Vision, Large Language Models**
+- 🌱 I’m currently learning **Large Language Models**
 
-- 📫 How to reach me **20131a4201@gvpce.ac.in**
+- 📫 How to reach me **shashankadimulam135@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
